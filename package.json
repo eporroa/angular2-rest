@@ -29,6 +29,8 @@
     "@angular/core": "2.0.0-rc.4",
     "@angular/http": "2.0.0-rc.4",
     "@angular/platform-browser": "^2.0.0-rc.4",
+    "@angular/common": "^2.0.0-rc.4",
+    "@angular/compiler": "^2.0.0-rc.4",
     "es6-promise": "^3.0.2",
     "es6-shim": "^0.33.13",
     "reflect-metadata": "^0.1.2",
